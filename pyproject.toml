@@ -1,0 +1,9 @@
+[project]
+name = "blue-harbor-investment-agent"
+version = "0.1.0"
+description = "Agentic AI investment research POC on Databricks"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Databricks / local artifacts
+.databricks/
+dist/
+build/
+*.egg-info/
+
+# Local secrets / environment files
+*.local.yaml
+*.local.yml
+.env.*
+
+# Do NOT ignore the synthetic POC data committed under data/

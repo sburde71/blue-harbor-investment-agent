@@ -1,0 +1,45 @@
+blue-harbor-investment-agent/
+├── README.md                         # Keep your current README
+├── .gitignore
+├── requirements.txt
+├── pyproject.toml
+│
+├── app/
+├── config/
+│
+├── data/
+│   ├── documents/                   # Copy expanded research documents here
+│   ├── seed/                        # Copy CSV/JSON seed data here
+│   └── semi_structured/             # Copy XLSX files here
+│
+├── notebooks/
+│
+├── src/
+│   └── blue_harbor_agent/
+│       ├── __init__.py
+│       ├── agents/
+│       ├── rag/
+│       ├── tools/
+│       ├── prompts/
+│       ├── guardrails/
+│       ├── evaluation/
+│       ├── state/
+│       └── utils/
+│
+├── evals/
+│   └── expected_results/
+│
+├── security_test_documents/
+│
+├── tests/
+│   ├── unit/
+│   └── integration/
+│
+├── setup/
+│
+├── docs/
+│   ├── architecture/
+│   └── decisions/
+│
+└── deployment/
+    └── resources/
