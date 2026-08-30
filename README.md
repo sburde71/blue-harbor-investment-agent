@@ -77,36 +77,8 @@ CI/CD + Deployment + Monitoring
 
 ## Target Architecture
 
-```mermaid
-flowchart TB
-    U["Investment Analyst"] --> APP["Databricks App / Chat UI"]
-    APP --> SUP["Supervisor / Coordinator Agent"]
+<img width="1536" height="1024" alt="Target State Architecture" src="https://github.com/user-attachments/assets/a5105585-f978-47a6-a398-164ddd3be361" />
 
-    SUP --> RA["Research Agent"]
-    SUP --> PA["Portfolio Agent"]
-    SUP -. optional .-> AA["Analysis / Deterministic Tools"]
-
-    RA --> ASMCP["AI Search MCP"]
-    ASMCP --> AIS["Databricks AI Search"]
-    AIS --> CHUNKS["Research Document Chunks"]
-    CHUNKS --> RAW["Earnings Reports<br/>Call Transcripts<br/>Analyst Notes"]
-
-    PA --> GMCP["Genie MCP"]
-    GMCP --> GENIE["Genie"]
-    GENIE --> UC["Unity Catalog Delta Tables<br/>Holdings · Funds · Companies"]
-
-    AA --> UCF["Unity Catalog Functions / Python Tools"]
-
-    STATE["Conversation State<br/>Later: Agent Memory"] -. context .-> SUP
-
-    GOV["Unity Catalog<br/>Unity AI Gateway<br/>Authentication & Authorization<br/>MCP Governance · Guardrails"] -. governs .-> SUP
-    GOV -. governs .-> ASMCP
-    GOV -. governs .-> GMCP
-
-    MLF["MLflow Tracing & Evaluation<br/>Prompt / Agent Versioning<br/>Feedback · Regression Tests"] -. observes .-> SUP
-    MLF -. observes .-> RA
-    MLF -. observes .-> PA
-```
 
 ### Runtime responsibility
 
