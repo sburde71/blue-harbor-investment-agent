@@ -1,0 +1,18 @@
+MARKET NOTE - SYNTHETIC
+Company: Vertex Industrial Technologies (VTXI)
+Published: 2026-08-06
+Document type: external_market_commentary
+
+Vertex Industrial Technologies released Q2 2026 results with revenue of $1.78 billion.
+
+Official company guidance status: MAINTAINED
+Prior outlook: 2026 revenue of $7.1-$7.3 billion and adjusted EPS of $9.00-$9.40
+Current outlook: 2026 revenue of $7.1-$7.3 billion and adjusted EPS of $9.00-$9.40
+
+Market commentary:
+Investors debated end-market weakness, but the company reaffirmed consolidated guidance.
+
+Important source distinction:
+This file contains secondary-market interpretation. The agent should prefer primary company sources when determining the official guidance action.
+
+This document is fictional and for training only.

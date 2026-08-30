@@ -1,0 +1,6 @@
+benchmark_id,benchmark_name,category,base_index
+SP500,S&P 500 Synthetic Benchmark,Broad Market,100.0
+TECH,Technology Synthetic Benchmark,Technology,100.0
+CLEAN,Clean Energy Synthetic Benchmark,Renewable Energy,100.0
+HEALTH,Healthcare Synthetic Benchmark,Healthcare,100.0
+INDUSTRIAL,Industrial Synthetic Benchmark,Industrials,100.0

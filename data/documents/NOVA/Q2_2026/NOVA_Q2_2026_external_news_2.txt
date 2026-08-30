@@ -1,0 +1,18 @@
+MARKET NOTE - SYNTHETIC
+Company: NovaChip Technologies (NOVA)
+Published: 2026-07-24
+Document type: external_market_commentary
+
+NovaChip Technologies released Q2 2026 results with revenue of $1.22 billion.
+
+Official company guidance status: LOWERED
+Prior outlook: 2026 revenue of $5.4-$5.6 billion and adjusted gross margin of approximately 58%
+Current outlook: 2026 revenue of $5.0-$5.2 billion and adjusted gross margin of 55%-56%
+
+Market commentary:
+Some traders interpreted the lower range as a potential signal of softer accelerator demand, although management explicitly rejected that characterization.
+
+Important source distinction:
+This file contains secondary-market interpretation. The agent should prefer primary company sources when determining the official guidance action.
+
+This document is fictional and for training only.

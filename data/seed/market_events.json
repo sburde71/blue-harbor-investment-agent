@@ -1,0 +1,42 @@
+[
+  {
+    "event_id": "NOVA-Q2-2026",
+    "ticker": "NOVA",
+    "event_type": "earnings",
+    "event_date": "2026-07-24",
+    "guidance_action": "lowered",
+    "summary": "NovaChip Technologies reported Q2 results and lowered its full-year outlook."
+  },
+  {
+    "event_id": "EVRG-Q2-2026",
+    "ticker": "EVRG",
+    "event_type": "earnings",
+    "event_date": "2026-08-02",
+    "guidance_action": "lowered",
+    "summary": "Evergreen Energy Systems reported Q2 results and lowered its full-year outlook."
+  },
+  {
+    "event_id": "APXR-Q2-2026",
+    "ticker": "APXR",
+    "event_type": "earnings",
+    "event_date": "2026-08-10",
+    "guidance_action": "maintained",
+    "summary": "Apex Retail Group reported Q2 results and maintained its full-year outlook."
+  },
+  {
+    "event_id": "MDHN-Q2-2026",
+    "ticker": "MDHN",
+    "event_type": "earnings",
+    "event_date": "2026-07-30",
+    "guidance_action": "raised",
+    "summary": "Meridian Health Systems reported Q2 results and raised its full-year outlook."
+  },
+  {
+    "event_id": "VTXI-Q2-2026",
+    "ticker": "VTXI",
+    "event_type": "earnings",
+    "event_date": "2026-08-06",
+    "guidance_action": "maintained",
+    "summary": "Vertex Industrial Technologies reported Q2 results and maintained its full-year outlook."
+  }
+]
